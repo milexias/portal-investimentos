@@ -8,7 +8,7 @@ Como parte de um desafio técnico, desenvolvi um dashboard no Tableau com o obje
 
 ### Ferramentas Utilizadas
 - Alteryx (link repositório): Utilizado para ETL e criação do App Analítico.
-- Tableau (link repositório): Realização de cálculos e consolidação do dashboard.
+- Tableau (link repositório): Realização de cálculos, parâmetros e consolidação do dashboard.
 - Figma: Ferramenta de design para a estrutura visual do dashboard.
 
 ### Simulador de Investimentos
