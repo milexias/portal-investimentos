@@ -1,6 +1,12 @@
 # Dashboard de Indicadores Econômicos
 Como parte de um desafio técnico, desenvolvi um dashboard no Tableau com o objetivo de estabelecer um portal de investimentos. O escopo era apresentar um histórico detalhado dos indicadores no contexto brasileiro, com o crescimento em percentual em relação ao ano anterior *(PY)* capacitando os consultores a tomar decisões com base nos dados de rentabilidade. Ele fornece a evolução mensal e anual da rentabilidade, incluindo o acumulado até 2021, e um simulador de investimentos para todos os indicadores. 
 
+### Ferramentas Utilizadas
+- [Alteryx:](https://github.com/milexias/portal-investimentos/tree/main/Alteryx)
+ Utilizado para ETL e criação do App Analítico.
+- [Tableau:](https://public.tableau.com/app/profile/alexia.santos/viz/PortaldeInvestimentos_16941998867240/Menu) Realização de cálculos, parâmetros e consolidação do dashboard.
+- [Figma:](https://github.com/milexias/portal-investimentos/tree/main/Imagens) Ferramenta de design para a estrutura visual do dashboard.
+
 ### Os indicadores são divididos em:
 - `Macroeconômicos`: Selic, IPCA, DI
 - `Variáveis`: Bova11, Smal11
@@ -9,11 +15,6 @@ Como parte de um desafio técnico, desenvolvi um dashboard no Tableau com o obje
 <html lang="pt-br"><head>
 <meta charset="utf-8"></head><body><h4> Conforme prévia do indicador abaixo: </h4><img src="Imagens/Macroeconomicos.png" /></body></html>
 
-### Ferramentas Utilizadas
-- [Alteryx:](https://github.com/milexias/portal-investimentos/tree/main/Alteryx)
- Utilizado para ETL e criação do App Analítico.
-- [Tableau:](https://public.tableau.com/app/profile/alexia.santos/viz/PortaldeInvestimentos_16941998867240/Menu) Realização de cálculos, parâmetros e consolidação do dashboard.
-- [Figma:](https://github.com/milexias/portal-investimentos/tree/main/Imagens) Ferramenta de design para a estrutura visual do dashboard.
 
 ### Simulador de Investimentos
 Desenvolvi um app analítico na ferramenta Alteryx e um painel no Tableau prototipando um simulador de investimentos. Esse recurso permite que consultores avaliem cenários hipotéticos, conforme o indicador desejado.
