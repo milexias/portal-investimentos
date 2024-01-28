@@ -28,7 +28,7 @@ O cenário econômico é dinâmico e sujeito a mudanças imprevistas que podem a
 
 Este projeto representa não apenas uma resposta ao desafio técnico e suas premissas, mas também uma solução interessante para a análise e visualização de dados financeiros. 
 
-Todo o desenvolvimento do projeto pode ser observado no repositório acima, bem como o resultado final no [Tableau Public:](https://public.tableau.com/app/profile/alexia.santos/viz/PortaldeInvestimentos_16941998867240/Menu).
+**Todo o desenvolvimento do projeto pode ser observado no repositório acima, bem como o resultado final no [Tableau Public:](https://public.tableau.com/app/profile/alexia.santos/viz/PortaldeInvestimentos_16941998867240/Menu).**
 
 
 *Esta apresentação técnica destaca os principais aspectos do projeto, fornecendo uma visão abrangente das tecnologias utilizadas, da estrutura do dashboard, dos objetivos atingidos e das considerações pessoais importantes para a interpretação dos dados apresentados.*
