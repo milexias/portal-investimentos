@@ -7,7 +7,7 @@ Como parte de um desafio técnico, desenvolvi um dashboard no Tableau com o obje
 - Câmbio: Dólar, Bitcoin, Ethereum
 
 <html lang="pt-br"><head>
-<title>Painel</title><meta charset="utf-8"></head><body><h3> Indicadores Econômicos </h3><img src="https://github.com/milexias/portal-investimentos/blob/main/Imagens/indicadores.png" /></body></html>
+<title>Painel</title><meta charset="utf-8"></head><body><h3> Indicadores Econômicos </h3><img src="Imagens/indicadores.png" /></body></html>
 
 ### Ferramentas Utilizadas
 - Alteryx (link repositório): Utilizado para ETL e criação do App Analítico.
