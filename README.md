@@ -1,10 +1,13 @@
-# Dashboard de Indicadores Financeiros
+# Dashboard de Indicadores Econômicos
 Como parte de um desafio técnico, desenvolvi um dashboard no Tableau com o objetivo de estabelecer um portal de investimentos. O escopo era apresentar um histórico detalhado dos indicadores no contexto brasileiro, com o crescimento em percentual em relação ao ano anterior *(PY)* capacitando os consultores a tomar decisões com base nos dados de rentabilidade. Ele fornece a evolução mensal e anual da rentabilidade, incluindo o acumulado até 2021, e um simulador de investimentos para todos os indicadores. 
 
-### Os Indicadores Econômicos são divididos em:
+### Os indicadores são divididos em:
 - Macroeconômicos: Selic, IPCA, DI
 - Variáveis: Bova11, Smal11
 - Câmbio: Dólar, Bitcoin, Ethereum
+
+<html lang="pt-br"><head>
+<title>Painel</title><meta charset="utf-8"></head><body><h3> Indicadores Econômicos </h3><img src="https://github.com/milexias/portal-investimentos/blob/main/Imagens/indicadores.png" /></body></html>
 
 ### Ferramentas Utilizadas
 - Alteryx (link repositório): Utilizado para ETL e criação do App Analítico.
